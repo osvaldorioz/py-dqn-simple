@@ -9,7 +9,7 @@ Funcionamiento:
     El script Python (dqn_test.py) entrena el modelo durante n episodios en un entorno simulado y realiza una predicción.
 
 Salida:
-text
+
 Episodio 1 completado
 Episodio 2 completado
 ...
