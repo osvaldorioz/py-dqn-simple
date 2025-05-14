@@ -20,5 +20,5 @@ Acción predicha para estado [0.8049722647217376, 0.5211069496694883, 0.56899978
 
 Entorno:
 
-    Ae utilizó un entorno virtual (myenv) con Python 3.12 en Linux y g++ con soporte para C++17.
+    Se utilizó un entorno virtual (myenv) con Python 3.12 en Linux y g++ con soporte para C++17.
     Las dependencias (pybind11, numpy) se instalaron correctamente.
